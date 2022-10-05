@@ -1,0 +1,17 @@
+class String
+	def shuffle
+		self.split('').shuffle().join
+	end
+end
+
+
+>> "hello".shuffle
+=> "leolh"
+>> person1 = {:first => "bulat", :last => "khakimov"}
+=> {:first=>"bulat", :last=>"khakimov"}
+>> params = {:father => person1}
+=> {:father=>{:first=>"bulat", :last=>"khakimov"}}
+>> params[:father][:first]
+=> "bulat"
+>> 
+
