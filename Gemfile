@@ -51,7 +51,8 @@ gem 'coffee-rails'
 gem 'jquery-rails'         
 gem 'turbolinks'             
 gem 'jbuilder'              
-gem 'sdoc'                    
+gem 'sdoc'
+gem 'guard'                    
 
 
 
