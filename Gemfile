@@ -52,7 +52,8 @@ gem 'jquery-rails'
 gem 'turbolinks'             
 gem 'jbuilder'              
 gem 'sdoc'
-gem 'guard'                    
+gem 'guard'   
+gem 'rails-controller-testing'                 
 
 
 
